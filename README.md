@@ -14,11 +14,9 @@ A86KJ-23079146722789
 ```
 ```cs
 var op1 = new SimpleOptions();
-op1.Elements = 5;
 op1.ElementLength = 5;
 op1.Case = GenCase.Upper;
 op1.Type = GenType.Alphanumeric;
-op1.Seperator = "-";
 
 var op2 = new SimpleOptions();
 op2.ElementLength = 14;

@@ -9,9 +9,9 @@ Example Usage
 =============
 
 The following code would produce this:
-
+```
 A86KJ-23079146722789
-
+```
 ```cs
 var op1 = new SimpleOptions();
 op1.Elements = 5;
